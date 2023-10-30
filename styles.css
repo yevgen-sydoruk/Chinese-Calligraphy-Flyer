@@ -4,18 +4,6 @@ body {
   box-sizing: border-box;
 }
 
-.banner {
-  /* align-items: center; */
-  text-align: center;
-}
-
-.box {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.box-photo {
-  width: 1000px;
-  height: 1000px;
+.bg-green {
+  background-color: #758369;
 }
